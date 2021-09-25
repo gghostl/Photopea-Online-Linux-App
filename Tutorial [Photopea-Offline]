@@ -1,0 +1,11 @@
+	Install:
+https://github.com/linuxmint/webapp-manager
+Open->+Add
+Name: Photopea
+Address: http://localhost:8887
+Icon:
+https://raw.githubusercontent.com/photopea/photopea/master/logo.svg
+Icon:->Browse->logo.svg
+Navigation bar: on
+Private/Incognito Window: default (off)
+  That's all!
