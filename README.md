@@ -8,3 +8,5 @@ https://github.com/gghostl/Photopea-Online-Linux-App/blob/b699e68989967df35cb406
 Electron app (appimage, old): https://github.com/spooknik/Photopea-Appimage
 
 Photopea-Offline: https://github.com/gghostl/Photopea-Offline-Linux-App/
+
+Photopea-Linux-App
