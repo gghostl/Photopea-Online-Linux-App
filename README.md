@@ -5,9 +5,9 @@ Recommended: https://github.com/gghostl/Photopea-Online-Linux-App/blob/ac77d0c27
 &
 https://github.com/gghostl/Photopea-Online-Linux-App/blob/b699e68989967df35cb406a835fb508602e193f3/Tutorials%20%5Bother%5D
 
-Flatpak: https://flathub.org/apps/details/com.github.vikdevelop.photopea_app
+Flatpak: https://flathub.org/apps/details/com.github.vikdevelop.photopea_app (https://github.com/vikdevelop/photopea_app)
 
-Electron app (appimage, old): https://github.com/spooknik/Photopea-Appimage
+Appimage: https://appimage.github.io/Photopea/ (https://github.com/spooknik/Photopea-Appimage)
 
 Photopea-Offline: https://github.com/gghostl/Photopea-Offline-Linux-App/
 
